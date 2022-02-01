@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 requests = "*"
-auto-py-to-exe = "*"
 
 [dev-packages]
 
